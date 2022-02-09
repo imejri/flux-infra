@@ -1,2 +1,2 @@
 # flux-infra
-Flux Infra Components
+Flux CD Infra Components
