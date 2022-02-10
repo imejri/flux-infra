@@ -8,7 +8,7 @@ metadata:
   namespace: flux-system
 spec:
   interval: 1m0s
-  path: ./deploy/vote/base
+  path: ./deploy/vote/staging
   prune: true
   sourceRef:
     kind: GitRepository
